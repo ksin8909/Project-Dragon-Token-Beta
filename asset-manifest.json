@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Project-Dragon-Token-Beta/static/css/main.fe8327cf.css",
-    "main.js": "/Project-Dragon-Token-Beta/static/js/main.829f22c8.js",
+    "main.js": "/Project-Dragon-Token-Beta/static/js/main.224117c5.js",
     "static/js/787.0f148dca.chunk.js": "/Project-Dragon-Token-Beta/static/js/787.0f148dca.chunk.js",
     "static/media/roboto-regular-webfont.woff": "/Project-Dragon-Token-Beta/static/media/roboto-regular-webfont.584f04569465ad0d844c.woff",
     "static/media/roboto-regular-webfont.woff2": "/Project-Dragon-Token-Beta/static/media/roboto-regular-webfont.3fd105524ae207d5bb04.woff2",
     "index.html": "/Project-Dragon-Token-Beta/index.html",
     "main.fe8327cf.css.map": "/Project-Dragon-Token-Beta/static/css/main.fe8327cf.css.map",
-    "main.829f22c8.js.map": "/Project-Dragon-Token-Beta/static/js/main.829f22c8.js.map",
+    "main.224117c5.js.map": "/Project-Dragon-Token-Beta/static/js/main.224117c5.js.map",
     "787.0f148dca.chunk.js.map": "/Project-Dragon-Token-Beta/static/js/787.0f148dca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe8327cf.css",
-    "static/js/main.829f22c8.js"
+    "static/js/main.224117c5.js"
   ]
 }
